@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.dao.BrandMapper">
+    <!-- Adminlog的resultMap,column是给数据库列起的别名,它对应property类的属性-->
+    <resultMap id="result1" type="com.vo.BrandHot">
+        <result column="name" property="name"/>
+        <result column="sum" property="num"/>
+    </resultMap>
+
+    <select id="selectHotList" resultMap="result1">
+        SELECT carbrand.brandName as name,
+               count(sale.saleId) as sum
+        FROM carbrand
+                 INNER JOIN carseries ON carseries.brandId = carbrand.brandId
+                 INNER JOIN car ON car.seriesId = carseries.seriesId
+                 INNER JOIN sale ON sale.carId = car.carId
+        GROUP BY carbrand.brandId
+    </select>
+</mapper>

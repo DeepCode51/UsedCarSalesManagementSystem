@@ -1,0 +1,16 @@
+com\pojo\Employee.class
+com\pojo\Evaluation.class
+com\pojo\Financing.class
+com\pojo\Customer.class
+com\pojo\Car.class
+com\pojo\Carbrand.class
+com\pojo\Position.class
+com\vo\SaleData.class
+com\pojo\Adminlog.class
+com\pojo\Carseries.class
+com\pojo\Chat.class
+com\vo\BrandHot.class
+com\pojo\Sale.class
+com\pojo\Carorder.class
+com\pojo\Company.class
+com\pojo\Repertory.class

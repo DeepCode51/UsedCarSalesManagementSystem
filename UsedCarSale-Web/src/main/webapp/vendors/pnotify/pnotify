@@ -1,0 +1,307 @@
+   <!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<title>waffle.io domain name is for sale. Inquire now.</title>
+		<meta name="description" content="waffle.io is available for purchase. Get in touch to discuss the possibilities!">    
+
+                    <base href="https://www.waffle.io/">
+            
+		<!-- FAVICON -->
+		<link rel="icon" type="image/png" href="img/y.png">
+		
+		<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+		<link href='https://fonts.googleapis.com/css?family=Oswald:400,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="css/page_specific/landing_themes/nubia/style.css"> 
+		<link rel="stylesheet" type="text/css" href="css/page_specific/landing_themes/loading_spinner.css">     
+
+		<!-- Font Awesome -->
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+		<!-- Google recaptcha -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+		
+		
+        <!-- Efty infrastructure UA -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-51651642-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'UA-51651642-1');
+        </script>
+        <!-- ./Efty infrastructure UA -->
+
+        <!-- /Efty user GA4 / UA -->
+                <!-- /Efty user GA4 / UA -->
+		</script> 
+		
+	</head>	<body>
+		
+		<!-- www.efty.com lander theme 'nubia' -->
+		
+		<div id="preloader">
+			<div id="status">
+				<div class="spinner">
+				  <div class="spinner-wrapper">
+					<div class="rotator">
+					  <div class="inner-spin"></div>
+					  <div class="inner-spin"></div>
+					</div>
+				  </div>
+				</div>
+			</div>
+		</div>
+		
+		<link href="https://fonts.googleapis.com/css?family=Rubik:400,700" rel="stylesheet">
+		<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+		
+		<div class="back_art">
+			<span></span>
+			<span></span>
+			<span></span>
+		</div>
+		
+		<nav class="navbar fixed-top">
+			
+			<div class="col-md-3">
+			</div>
+			
+			<div class="col-md-6 text-center">
+				
+				<div class="logo-not-on-xl">
+						<div class="pr-3">
+		<h1 id="logo_text">
+			waffle.io		</h1>				
+	</div>
+					</div>
+				
+			</div>
+			
+			<div class="col-md-3 d-none d-md-block text-right">
+				
+				
+			</div>
+			
+		</nav>	
+
+		<section id="main">
+			<div class="container h-100">
+				
+				<div class="row align-items-center h-100">
+					
+					<div class="col-12 col-lg-6 mx-auto">
+					
+						<div class="logo-on-xl mb-2">
+								<div class="pr-3">
+		<h1 id="logo_text">
+			waffle.io		</h1>				
+	</div>
+							</div>
+						<p class="align-middle mb-4 bio">This premium domain name is available for purchase!</p>
+														<p class="usp ml-5 mb-2"><i class="fas fa-caret-right mr-2"></i> Your domain name is your identity on the Internet</p>
+															<p class="usp ml-5 mb-2"><i class="fas fa-caret-right mr-2"></i> Establish instant trust and credibility with customers</p>
+															<p class="usp ml-5 mb-2"><i class="fas fa-caret-right mr-2"></i> Premium domain names appreciate in value over time</p>
+															<p class="usp ml-5 mb-2"><i class="fas fa-caret-right mr-2"></i> Boost your business and invest in the right domain name</p>
+													<div class="container">
+							<div class="row align-items-center mt-4">
+								<div class="col-lg-12 text-left">						
+									<a href="javascript:void(0);" id="toggle_make_offer" class="btn btn-lg btn-primary pl-4 pr-4"><i class="fas fa-chevron-down mr-3"></i>Make an offer</a>
+								</div>
+							</div>
+						</div>
+											</div>
+					
+						
+										
+				</div>
+			</div>
+		
+		</section>
+		
+		<section id="make_offer">
+			
+			<div class="back_art_make_offer">
+				<span></span>
+			</div>
+		
+			<div class="container h-100">
+				
+				<div class="row align-items-center h-100">
+					
+					<div class="col-12 col-lg-8 mx-auto">
+							
+						<div class="make_offer_box pl-5 pr-5">	
+							
+							
+							<h4 class="mb-4 pt-4 text-center">Make an offer</h4>
+					
+							<form action="routes/ajax_actions/landing_themes/add_inquiry_cap.ajaxa.php" method="post" class="odf_ajax" data-target="form_feedback" autocomplete="off" id="contact_form">                                                     			
+							
+								<input type="hidden" name="domain_id" value="5182985">  
+								<input type="hidden" name="user_id" value="9994">
+								
+								<div id="form_feedback">
+								</div>
+								
+								<div class="row">
+								
+									<div class="col-sm-6">
+									
+										<div class="form-group row mb-2">
+											<label for="name" class="col-sm-3 col-form-label">Name</label>
+											<div class="col-sm-9">
+												<input type="text" name="name" id="name" autocomplete="off" class="form-control" required>
+											</div>
+										</div>
+									
+									</div>
+									
+									<div class="col-sm-6">
+									
+										<div class="form-group row mb-2">
+											<label for="email" class="col-sm-3 col-form-label">Email</label>
+											<div class="col-sm-9">
+												<input type="email" name="email" id="email" autocomplete="off" class="form-control" required>
+											</div>
+										</div>
+										
+									</div>
+									
+								</div>
+								
+								<div class="row">
+								
+									<div class="col-sm-6">
+								
+										<div class="form-group row mb-2">
+											<label for="phone" class="col-sm-3 col-form-label">Phone</label>
+											<div class="col-sm-9">
+												<input type="text" name="phone" id="phone" autocomplete="off" class="form-control" required>
+											</div>
+										</div>
+												
+									</div>
+								
+									<div class="col-sm-6">
+								
+										<div class="form-group row mb-2">
+											<label for="name" class="col-sm-3 col-form-label">Offer</label>
+											<div class="col-sm-9">
+												<input type="text" placeholder="Min: USD 10000.00" name="offer" id="offer" autocomplete="off" class="form-control" required>
+											</div>
+										</div>
+										
+									</div>
+									
+								</div>
+								
+								<div class="row">
+								
+									<div class="col-sm-12">
+								
+										<label for="name" class="col-sm-2 pl-0 col-form-label">Message</label>
+										<textarea class="form-control" name="message" rows="3" autocomplete="off" required></textarea>
+										
+										
+									</div>
+									
+								</div>
+								
+												
+																
+								
+								<div class="form-group row mb-0 mt-2">
+									
+									<div class="col-sm-8">
+										<div class="g-recaptcha" data-sitekey="6LfLJxMTAAAAACSYGZUH0OCGhnoq50xexhkAGCe7" style=""></div>
+									</div>
+									
+									<div class="col-sm-4 text-right">
+										<input type="submit" class="btn btn-lg btn-primary mt-1 pl-4 pr-4" value="&#xf1d8;&nbsp;&nbsp;&nbsp;Send">
+									</div>
+									
+								</div>	
+								
+							</form>
+						
+						</div>
+						
+					</div>
+				
+				</div>
+				
+			</div>
+							
+		</section>
+		
+				
+				
+		<script src="js/fitty.min.js"></script>
+		
+		<script src="https://www.waffle.io/odf/js/odf.js"></script><script>Odf.set('website_base_url', 'https://www.waffle.io/');$(document).ready(function() {Odf.init();});</script>     
+		
+		<script>
+		
+			$( document ).ready(function() {
+				
+				fitty('#logo_text', {
+					maxSize: 50
+				});
+				
+				$('#toggle_make_offer').click( function(e) {
+								
+					e.preventDefault();
+					$('html, body').animate({
+						scrollTop: $('#make_offer').offset().top
+					}, 800);
+					
+					return true;
+					
+				});
+				
+				
+				
+				$( 'input[type="submit"]' ).click(function() {
+					
+					if ($('form#contact_form').checkValidity()) {
+					
+						$('div#preloader').show();
+						$('div#preloader').fadeTo( 0, 0.8);
+						$('div#preloader #status').show();
+					
+					}
+					
+				});
+				
+				$( '#escrow_pay, #bin_dan' ).click(function() {
+					
+					$('div#preloader').show();
+					$('div#preloader').fadeTo( 0, 0.8);
+					$('div#preloader #status').show();
+					
+				});
+				
+				$( document ).ajaxComplete(function() {
+					
+					$('div#preloader').hide();
+					$('div#preloader #status').hide();
+					
+				});
+			
+			});
+		</script> 
+		
+	</body>
+	
+</html><div id="stat_div" style="display:none;"></div>					
+<script>
+
+	$( document ).ready(function() {
+
+		Odf.ajax.get('https://www.waffle.io/ajax/visitors/create/', 'div#stat_div', { domain_id: '5182985' });
+		
+	});
+
+</script>
